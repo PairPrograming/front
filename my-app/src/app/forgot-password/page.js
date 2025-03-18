@@ -1,4 +1,4 @@
-"use client";
+"use client"; 
 import ForgotPassword from "../../component/forgot-password/forgot-password";
 
 export default function ForgotPasswordPage() {
