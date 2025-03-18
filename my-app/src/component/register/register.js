@@ -202,7 +202,7 @@ export default function Register() {
           </div>
           <div className="mt-4 text-center">
             <span className="text-gray-300">
-              Al registrarte aceptas nuestros{" "}
+              Al registrarte aceptas nuestros
               <Link href="/terms" legacyBehavior>
                 <a className="text-blue-500 hover:text-blue-700">
                   términos, condiciones y políticas de privacidad
@@ -225,7 +225,6 @@ export default function Register() {
           </div>
           <div className="mt-4 text-center">
             <span className="text-gray-300">
-              
               &quot;Si aun no tenes cuenta podes&quot;
             </span>
             <Link href="/login" legacyBehavior>
