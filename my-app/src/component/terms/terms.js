@@ -26,8 +26,8 @@ const TermsAndConditions = () => {
             su cuenta y contraseña.
           </li>
           <li className="mb-2">
-            Condición 3: La aplicación se proporciona "tal cual" y "según
-            disponibilidad".
+            Condición 3: La aplicación se proporciona &quottal cual&quot y &quotsegún
+            disponibilidad&quot.
           </li>
           <li className="mb-2">
             Condición 4: Nos reservamos el derecho de modificar o descontinuar
@@ -38,7 +38,6 @@ const TermsAndConditions = () => {
             la empresa por cualquier reclamo relacionado con su uso de la
             aplicación.
           </li>
-          {/* ...agregar más condiciones según sea necesario... */}
         </ul>
         <p>
           Si no está de acuerdo con estos términos y condiciones, por favor no
