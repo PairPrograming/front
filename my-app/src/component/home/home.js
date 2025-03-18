@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
+import Login from "../login/login.js"; // Importar el componente Login
+
+// Componente Home comentado
 
 const Home = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -37,3 +40,13 @@ const Home = () => {
 };
 
 export default Home;
+
+// const HomeWithLogin = () => {
+//   return (
+//     <div>
+//       <Login />
+//     </div>
+//   );
+// };
+
+// export default HomeWithLogin;
