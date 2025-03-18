@@ -225,8 +225,8 @@ export default function Register() {
           </div>
           <div className="mt-4 text-center">
             <span className="text-gray-300">
-              {" "}
-              Si aun no tenes cuenta podes{" "}
+              
+              &quot;Si aun no tenes cuenta podes&quot;
             </span>
             <Link href="/login" legacyBehavior>
               <a className="text-blue-500 hover:text-blue-700">
